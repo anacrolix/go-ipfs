@@ -12,8 +12,8 @@ import (
 
 	core "github.com/ipfs/go-ipfs/core"
 	path "gx/ipfs/QmQtg7N4XjAk2ZYpBjjv8B6gQprsRekabHBCnF6i46JYKJ/go-path"
-	ft "gx/ipfs/QmcDCSADywPWksTLXXvRYQ7hN7Vma57RxSnfE1MTeQzvzh/go-unixfs"
-	uio "gx/ipfs/QmcDCSADywPWksTLXXvRYQ7hN7Vma57RxSnfE1MTeQzvzh/go-unixfs/io"
+	ft "gx/ipfs/QmRJHyye3KqnG531fSHYfp9zJiH1qZ5dNojjqoU8m9rCME/go-unixfs"
+	uio "gx/ipfs/QmRJHyye3KqnG531fSHYfp9zJiH1qZ5dNojjqoU8m9rCME/go-unixfs/io"
 	mdag "gx/ipfs/QmdURv6Sbob8TVW2tFFve9vcEWrSUgwPqeqnXyvYhLrkyd/go-merkledag"
 
 	fuse "gx/ipfs/QmSJBsmLP1XMjv8hxYg2rUMdPDB7YUpyBo9idjrJ6Cmq6F/fuse"

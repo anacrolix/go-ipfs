@@ -11,8 +11,8 @@ import (
 	repo "github.com/ipfs/go-ipfs/repo"
 
 	humanize "gx/ipfs/QmPSBJL4momYnE7DcUyk2DVhD6rH488ZmHBGLbxNdhU44K/go-humanize"
-	mfs "gx/ipfs/QmPWr4fofvoErD5UgDcx9RSiGgevmuEoww5VkotwEneRSX/go-mfs"
 	cid "gx/ipfs/QmR8BauakNcBa3RbE4nbQu76PDiJgoQgz8AJdhJuiU4TAw/go-cid"
+	mfs "gx/ipfs/QmcATKKfeAQrMpviv9VZc448xQoWUWKs3i5VBgXxQwft32/go-mfs"
 	logging "gx/ipfs/QmcuXC5cxs79ro2cUuHs4HQ2bkDLJUYokwL8aivcX6HW3C/go-log"
 )
 

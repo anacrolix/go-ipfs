@@ -20,11 +20,11 @@ import (
 
 	u "gx/ipfs/QmNohiVssaPw3KVLZik59DBVGTSm2dGvYT9eoXt5DQ36Yz/go-ipfs-util"
 	chunker "gx/ipfs/QmR4QQVkBZsZENRjYFVi8dEtPL3daZRNKk24m4r6WKJHNm/go-ipfs-chunker"
+	importer "gx/ipfs/QmRJHyye3KqnG531fSHYfp9zJiH1qZ5dNojjqoU8m9rCME/go-unixfs/importer"
+	uio "gx/ipfs/QmRJHyye3KqnG531fSHYfp9zJiH1qZ5dNojjqoU8m9rCME/go-unixfs/io"
 	fstest "gx/ipfs/QmSJBsmLP1XMjv8hxYg2rUMdPDB7YUpyBo9idjrJ6Cmq6F/fuse/fs/fstestutil"
+	files "gx/ipfs/QmXy8ePeFSRHMUJMpjJ32fKS6qgbGWc2P6oJNa6bFPiKqN/go-ipfs-files"
 	ci "gx/ipfs/QmZXjR5X1p4KrQ967cTsy4MymMzUM8mZECF3PV8UcN4o3g/go-testutil/ci"
-	files "gx/ipfs/QmaVhCAQGAx6n3iSUyUm4xCtfCWqpx96PJ57ykGASZbt5q/go-ipfs-files"
-	importer "gx/ipfs/QmcDCSADywPWksTLXXvRYQ7hN7Vma57RxSnfE1MTeQzvzh/go-unixfs/importer"
-	uio "gx/ipfs/QmcDCSADywPWksTLXXvRYQ7hN7Vma57RxSnfE1MTeQzvzh/go-unixfs/io"
 	ipld "gx/ipfs/QmcKKBwfz6FyQdHR2jsXrrF6XeSBXYL86anmWNewpFpoF5/go-ipld-format"
 	dag "gx/ipfs/QmdURv6Sbob8TVW2tFFve9vcEWrSUgwPqeqnXyvYhLrkyd/go-merkledag"
 )

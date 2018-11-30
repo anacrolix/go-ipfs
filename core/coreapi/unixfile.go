@@ -4,9 +4,9 @@ import (
 	"context"
 	"errors"
 
-	files "gx/ipfs/QmaVhCAQGAx6n3iSUyUm4xCtfCWqpx96PJ57ykGASZbt5q/go-ipfs-files"
-	ft "gx/ipfs/QmcDCSADywPWksTLXXvRYQ7hN7Vma57RxSnfE1MTeQzvzh/go-unixfs"
-	uio "gx/ipfs/QmcDCSADywPWksTLXXvRYQ7hN7Vma57RxSnfE1MTeQzvzh/go-unixfs/io"
+	ft "gx/ipfs/QmRJHyye3KqnG531fSHYfp9zJiH1qZ5dNojjqoU8m9rCME/go-unixfs"
+	uio "gx/ipfs/QmRJHyye3KqnG531fSHYfp9zJiH1qZ5dNojjqoU8m9rCME/go-unixfs/io"
+	files "gx/ipfs/QmXy8ePeFSRHMUJMpjJ32fKS6qgbGWc2P6oJNa6bFPiKqN/go-ipfs-files"
 	ipld "gx/ipfs/QmcKKBwfz6FyQdHR2jsXrrF6XeSBXYL86anmWNewpFpoF5/go-ipld-format"
 	dag "gx/ipfs/QmdURv6Sbob8TVW2tFFve9vcEWrSUgwPqeqnXyvYhLrkyd/go-merkledag"
 )
